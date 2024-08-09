@@ -51,13 +51,15 @@
 	<string>Want To Box?</string>
 	<key>UIAppFonts</key>
 	<array>
-		<string>SUITE-Bold.ttf</string>
-		<string>SUITE-ExtraBold.ttf</string>
-		<string>SUITE-Heavy.ttf</string>
-		<string>SUITE-Light.ttf</string>
-		<string>SUITE-Medium.ttf</string>
-		<string>SUITE-Regular.ttf</string>
-		<string>SUITE-SemiBold.ttf</string>
+		<string>SUIT-Bold.ttf</string>
+		<string>SUIT-ExtraBold.ttf</string>
+		<string>SUIT-ExtraLight.ttf</string>
+		<string>SUIT-Heavy.ttf</string>
+		<string>SUIT-Light.ttf</string>
+		<string>SUIT-Medium.ttf</string>
+		<string>SUIT-Regular.ttf</string>
+		<string>SUIT-SemiBold.ttf</string>
+		<string>SUIT-Thin.ttf</string>
 	</array>
 </dict>
 </plist>
