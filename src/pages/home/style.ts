@@ -10,7 +10,7 @@ export const styles = StyleSheet.create({
   },
   rankingTitleText: {
     fontSize: 24,
-    fontFamily: 'SUITE-ExtraBold',
+    fontFamily: 'SUIT-ExtraBold',
     color: AppColor.brand_white,
   },
   boxing: {flex: 0},
