@@ -4,7 +4,7 @@ import {AppColor} from '../../global';
 export const styles = StyleSheet.create({
   ranking: {flex: 1, padding: 24, gap: 24},
   rankingTitle: {
-    flex: 1,
+    flex: 0,
     flexDirection: 'row',
     justifyContent: 'space-between',
   },
@@ -13,5 +13,6 @@ export const styles = StyleSheet.create({
     fontFamily: 'SUIT-ExtraBold',
     color: AppColor.brand_white,
   },
+  list: {flex: 1, flexDirection: 'column', gap: 12},
   boxing: {flex: 0},
 });
