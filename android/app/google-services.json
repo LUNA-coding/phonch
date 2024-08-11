@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "859741107002",
+    "project_id": "phonch-7f4f7",
+    "storage_bucket": "phonch-7f4f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859741107002:android:a27254f2f7193fa99b9603",
+        "android_client_info": {
+          "package_name": "com.example.phonch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf4qvhejtvUjCom7qGLbr5je0JlUkjxa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
